@@ -17,3 +17,5 @@ HEADERS += \
 RESOURCES += \
     shaders.qrc
 
+INCLUDEPATH += /Users/sabotage3d/DEV/glm
+

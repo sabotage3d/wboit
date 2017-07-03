@@ -1,5 +1,7 @@
 // created 10/27/2015 by Yang Yu <gnayuy@gmail.com>
 
+#define GLM_ENABLE_EXPERIMENTAL
+
 #include <string>
 #include <fstream>
 #include <sstream>
